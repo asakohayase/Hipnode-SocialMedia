@@ -26,7 +26,7 @@
 ## Features
 **・User Authentication** : Secure user authentication to ensure the privacy and security of users.
 
-<img width="1438" alt="Screenshot 2024-02-10 at 4 49 27 PM" src="https://github.com/asakohayase/Hipnode-SocialMedia/assets/76857882/51f134e8-d0b4-49e6-ba23-caca66440b1c">
+<img width="700" alt="Screenshot 2024-02-10 at 4 49 27 PM" src="https://github.com/asakohayase/Hipnode-SocialMedia/assets/76857882/51f134e8-d0b4-49e6-ba23-caca66440b1c">
 <br />
 <br />
 
@@ -50,7 +50,7 @@
 
 **・Interviews** : Explore a dedicated space for interviews, providing insights, tips, and experiences to enhance professional growth.
 
-<img width="1435" alt="Screenshot 2024-02-10 at 4 51 17 PM" src="https://github.com/asakohayase/Hipnode-SocialMedia/assets/76857882/b3b43962-04f4-443c-b93d-445a3dbf6705">
+<img width="1435" alt="Screenshot 2024-02-10 at 4 51 17 PM" src="https://github.com/asakohayase/react_native_crash_course/assets/76857882/d52ae3aa-1259-4979-ac07-fbedecf76054">
 <br />
 <br />
 
